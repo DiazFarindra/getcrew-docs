@@ -29,7 +29,11 @@ Make sure the reader knows where to find each view and what functionality is enc
 
 ### how to create the documentation
 
-<br/>
+*   create folder per-feature
+
+*   create blank docs for general docs
+
+*   create playlist for flow code docs
 
 <br/>
 
